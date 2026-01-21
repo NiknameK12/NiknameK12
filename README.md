@@ -17,7 +17,7 @@ and creating my own tools, bots, games, and even operating systems 😎🧠
 - ![C++](https://img.icons8.com/?size=48&id=40669&format=png&color=000000) **C++**
 - ![C](https://img.icons8.com/?size=48&id=40670&format=png&color=000000) **C**
 - ![ASM](https://img.icons8.com/?size=48&id=gVK745a4Vaur&format=png&color=000000) **Assembly**
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="48"/> **SQLite**
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="48"/> **SQL**
 
 ---
 
